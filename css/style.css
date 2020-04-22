@@ -43,7 +43,8 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
-  text-decoration-color: white;
+  color:white;
+  
 }
 
 img {
@@ -57,7 +58,7 @@ p {
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
